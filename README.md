@@ -1,1 +1,10 @@
-# Connect-Four-Game
+- [x] Research project idea
+- [x] Seek approval for project idea
+- [x] Create description of project idea
+- [x] Upload code into Visual Studio Code and locate problems
+- [x] Analyze code and comment any problems that were encountered
+- [] Complete Sprint 1
+- [x] Complete Sprint 2 and make changes
+- [] Complete Sprint 3
+- [] Create Powerpoint to meet expectations
+- [] Present project
