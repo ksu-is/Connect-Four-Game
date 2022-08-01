@@ -1,6 +1,6 @@
 # ran into trouble importing the numpy module
-import numpy as np
-import pygame
+import numpy as np # properly installed the numpy file
+import pygame # properly installed the pygame
 import sys
 import math 
 
