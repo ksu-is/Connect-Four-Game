@@ -7,4 +7,4 @@
 - [x] Complete Sprint 2 and make changes
 - [x] Complete Sprint 3
 - [x] Create Powerpoint to meet expectations
-- [] Present project
+- [x] Present project
